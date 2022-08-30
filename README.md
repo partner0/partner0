@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @partner0
-- 👀 I’m interested in learning, helping and ML
-- 🌱 I’m currently learning how to better support staff engineers
-- 💞️ I’m looking to collaborate on growing the Chicago tech scene (https://www.chicagoctogroup.org)
-- 📫 How to reach me: https://www.linkedin.com/in/toubol/
+👋 Hi, I’m @partner0
+https://www.chicagoctogroup.org
+https://www.linkedin.com/in/toubol/
